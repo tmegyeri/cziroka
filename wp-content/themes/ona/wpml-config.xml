@@ -1,0 +1,9 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">projects</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">ona_core_custom_fonts</taxonomy>
+    <taxonomy translate="1">projects_categories</taxonomy>
+  </taxonomies>
+</wpml-config>
