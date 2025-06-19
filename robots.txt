@@ -1,5 +1,2 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://czirokakuriavendeghaz.local/wp-sitemap.xml
+User-agent: * 
+Allow: /
